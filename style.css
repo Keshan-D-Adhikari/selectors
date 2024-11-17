@@ -1,0 +1,17 @@
+ol{
+    margin-left: -40px;
+    margin-top: 20px;
+    list-style-position: inside;
+}
+.note{
+    font-size: 50px;
+}
+#id1{
+    color: green;
+    font-size: 20px;
+
+}
+
+li[value="1"]{
+    color: gold;
+}
